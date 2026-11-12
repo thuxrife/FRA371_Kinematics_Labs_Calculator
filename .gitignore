@@ -1,0 +1,19 @@
+# Documentation / Context
+CONTEXT.md
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
